@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/jfy61QD/maxresdefault.jpg",
+    "title": "FPS Warfare Challenge",
+    "category": "First-Person Shooter",
+    "description": "Join our intense first-person shooter gaming tournament and showcase your skills in epic battles. Immerse yourself in a world of tactical gameplay and heart-pounding action. Form alliances, strategize your moves, and dominate the enemy. Are you up for the challenge? Experience the rush of adrenaline as you step onto the virtual battleground. Feel the weight of your virtual weapon, the tension in the air, and the thrill of the hunt. This is your chance to prove your mettle against the best FPS players. The FPS Warfare Challenge is not just a tournament—it's a battleground where only the sharpest shooters survive. Compete with precision, agility, and team coordination to emerge victorious. Every shot counts, every move matters. Will you be the last one standing? Gear up, soldier, and prepare for an unforgettable gaming experience! Enlist now and aim for glory.",
+    "service_type": "Tournament",
+    "price": 20
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/kQVr7p8/wp2041824.jpg",
+    "title": "Speed Racer Championship",
+    "category": "Racing",
+    "description": "Gear up for the most thrilling racing championship! Show off your driving prowess and compete against the best racers. Feel the adrenaline rush as you zoom through tracks, making split-second decisions to secure victory. Ready, set, race to glory! The Speed Racer Championship is where speed meets strategy. Maneuver through challenging tracks, dodge obstacles, and outpace your rivals. Feel the wind in your hair and the thrill in your heart as you push your limits. Every turn is a test of your skills and nerve. Do you have what it takes to leave your competition in the dust? Race like never before and seize the crown of the ultimate Speed Racer. Whether you're an experienced racer or a newcomer, this championship offers a pulse-pounding experience for all. Strap in, rev your engines, and let the race begin! Claim your spot on the podium and etch your name in the annals of racing history.",
+    "service_type": "Championship",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/1dfpYZh/main-main-strategic-mind-fight-for-freedom.png",
+    "title": "Strategic Showdown",
+    "category": "Strategy",
+    "description": "Engage in a mind-bending strategic showdown and outwit your opponents. Plan your every move carefully, anticipate your rival's actions, and lead your forces to triumph. This is a battle of wits and strategy. Victory favors the most cunning. The Strategic Showdown is not just a game; it's a battlefield of intellect and tactical genius. Craft your strategy, build your empire, and conquer your foes. Command an army, forge alliances, and secure your dominion. The world is your chessboard, and the pieces are in your hands. Adaptability, foresight, and calculated risks are your tools for victory. Prove your strategic prowess and claim the title of master tactician. The Strategic Showdown awaits the finest commanders to step forward. Will you seize the opportunity and etch your name in the annals of strategy?",
+    "service_type": "Tournament",
+    "price": 25
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/KNWCCJk/maxresdefault.jpg",
+    "title": "Battle Royale Extravaganza",
+    "category": "Battle Royale",
+    "description": "Step into the arena for an epic battle royale extravaganza! Be the last one standing amidst intense combat and tactical challenges. Equip yourself, strategize your moves, and survive the chaos. Only the strongest will emerge as the ultimate champion. The Battle Royale Extravaganza is a relentless test of your survival instincts and combat skills. Parachute into the battleground, scavenge for weapons, and fight for your life in a high-stakes battle where only one can be victorious. The safe zone shrinks, and the competition escalates. It's a battle for honor, for glory, and for the ultimate bragging rights. Will you be the lone survivor and etch your name in the annals of battle royale history? Gather your courage, gear up, and dive into the heart of the storm. The arena awaits your arrival. Let the Battle Royale Extravaganza begin.",
+    "service_type": "Tournament",
+    "price": 30
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/37zXM44/EC-Header-Logo-Green-Corner.png",
+    "title": "Mystery Enigma Challenge",
+    "category": "Various",
+    "description": "Embark on an enigmatic adventure of gaming challenges and surprises. Solve mysteries, uncover secrets, and overcome obstacles in this thrilling gaming challenge. Unleash your inner detective and claim your rewards. The unknown awaits. The Mystery Enigma Challenge is a captivating journey into the realm of the unknown. Intriguing puzzles, mind-bending riddles, and unexpected twists await you. Every step you take unravels a new mystery, leading you closer to the heart of the enigma. As you progress, the challenges intensify, pushing your intellect and creativity to the limit. Work with your team, decode the cryptic messages, and piece together the puzzle. Will you solve the enigma and emerge victorious? The adventure beckons, and the mystery awaits. Prepare to delve into the enigmatic unknown and let the challenge begin.",
+    "service_type": "Challenge",
+    "price": 10
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/7rG4nzf/Retro-Classic-Gaming-Mario-Pac-man-feature-image.png",
+    "title": "Retro Gaming Night",
+    "category": "Retro",
+    "description": "Travel back in time to the golden era of gaming. Experience the joy of retro games like Mario and Pac-Man. Compete for high scores and relive the nostalgia. It's a blast from the past, and it's all about classic fun and memories. The Retro Gaming Night is a celebration of the timeless classics that shaped the gaming industry. Rediscover the magic of vintage gameplay and pixelated adventures. The ambiance is nostalgic, the controllers are iconic, and the games are legendary. Challenge your friends to beat your high score and reminisce about the good old days. Whether you're a seasoned gamer or a newbie, everyone can appreciate the charm of retro gaming. Grab your joystick, press play, and let the retro gaming marathon commence. Come, be a part of this trip down memory lane and relive the joy of retro gaming!",
+    "service_type": "Championship",
+    "price": 15
+  },
+  {
+    "id": 7,
+    "picture": "https://i.ibb.co/MB1Cmhq/afkgaming-import-media-images-16019-36b9f3657ac2c67e99a695aa178cdda1.jpg",
+    "title": "MOBA Champions",
+    "category": "MOBA",
+    "description": "Dive into the realm of MOBA and prove your mettle as a champion. Battle with a team, destroy the enemy base, and ascend the ranks of victory. Sharpen your skills, collaborate with your allies, and let the MOBA mayhem begin! The MOBA Champions event is an adrenaline-fueled dive into the heart of multiplayer online battle arenas. Team up with friends or make new allies as you strive for victory in strategic, team-based battles. Choose your hero, harness their unique abilities, and coordinate with your team to dominate the battlefield. Every decision is crucial, and every action impacts the course of the game. Will your team emerge as the champions? Join the MOBA revolution and let the battles unfold. Embrace the chaos, embrace the strategy, and embrace victory!",
+    "service_type": "Challenge",
+    "price": 20
+  },
+  {
+    "id": 8,
+    "picture": "https://i.ibb.co/xMjjhSz/mqdefault.jpg",
+    "title": "Casual Gaming Night",
+    "category": "Casual",
+    "description": "Unwind with friends and enjoy a casual gaming night filled with laughter and entertainment. Play a variety of casual games that are easy to pick up and endlessly enjoyable. It's a night of pure gaming fun and good company. The Casual Gaming Night is a laid-back and entertaining evening of light-hearted gaming. Whether you're a seasoned gamer or just starting out, the atmosphere is welcoming and the games are easy to learn. From party games to mini-competitions, there's something for everyone. Grab a controller, team up with friends, and immerse yourself in a night of laughter, camaraderie, and entertaining challenges. It's all about having a blast while gaming in a relaxed setting. Join us for a memorable night of gaming and good times!",
+    "service_type": "Tournament",
+    "price": 5
+  },
+  {
+    "id": 9,
+    "picture": "https://i.ibb.co/fX0ZsdF/maxresdefault.jpg",
+    "title": "eSports Unleashed",
+    "category": "eSports",
+    "description": "Step into the arena of eSports and showcase your skills on a grand stage. Compete in a professional eSports tournament and experience the thrill of high-level competition. The glory of victory awaits the true eSports champions! The eSports Unleashed tournament is the epitome of competitive gaming. It's where the best eSports athletes converge to test their skills and prove their mettle. The stage is set, the audience is watching, and the pressure is on. Choose your game, assemble your team, and engage in high-octane battles that demand strategy, precision, and teamwork. This is your chance to shine in the world of competitive eSports. The competition is fierce, the rewards are prestigious, and the experience is unforgettable. Join the eSports revolution and make your mark as a true champion!",
+    "service_type": "Tournament",
+    "price": 30
+  }
+]
