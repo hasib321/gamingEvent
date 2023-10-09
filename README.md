@@ -1,8 +1,11 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# [Gaming Events](https://gaming-event-f03b3.web.app/)
 
-Currently, two official plugins are available:
+* Using this site anyone can taking particpant a gaming event
+* can join a the gaming contest
+* Users must have to logged in to visit our gaming service option.
+* besides must have to logged in to see About us pages ,where u can see the founders of this events.
+* user can log in with google and manually sign in with email and password.
+ 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
