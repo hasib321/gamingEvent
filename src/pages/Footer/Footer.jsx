@@ -109,8 +109,8 @@ const Footer = () => {
           </div>
         </div>
         <div className="pt-16 pb-10">
-          <p className="text-center text-white">
-            Copyright © 2023 - All right reserved by Gaming Event
+          <p className="text-center text-white text-sm">
+            © 2023 - All right reserved by Gaming Event
           </p>
         </div>
       </footer>
