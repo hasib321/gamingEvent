@@ -11,7 +11,7 @@ const Progressbar = () => {
               92%
             </div>
             <div className="mt-5">
-              <h1 className="text-white text-xl">Gaming Skills </h1>
+              <h1 className="text-white text-xl">Gaming Skills</h1>
             </div>
           </div>
           <div className="text-center">

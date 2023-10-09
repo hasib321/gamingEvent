@@ -12,7 +12,7 @@ const ErrorPage = () => {
         {error.status === 404 && (
           <div className=" mt-6">
             <Link to="/">
-              <button className="bg-green-500 px-2 rounded-md py-1 text-white">
+              <button className="bg-[#f43b86] px-2 rounded-md py-1 text-white">
                 GO HOME
               </button>
             </Link>

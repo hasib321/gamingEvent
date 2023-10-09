@@ -93,7 +93,7 @@ const Footer = () => {
               <h1 className="text-4xl font-bold">Contact Us</h1>
             </div>
             <div className="mt-5">
-              <p>Lumbung Hidup Street Madiun City East Java</p>
+              <p>Savar,Dhaka,Bangladesh</p>
             </div>
             <div className="mt-5">
               <p className="flex items-center gap-3 ">
