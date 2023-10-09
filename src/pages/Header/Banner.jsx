@@ -48,7 +48,7 @@ const Banner = () => {
 
         <div
           className="text-white flex gap-20 my-8"
-          data-aos="fade-left"
+          data-aos="zoom-in"
           data-aos-offset="200"
           data-aos-easing="ease-in-sine"
           data-aos-duration="600"
