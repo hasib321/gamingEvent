@@ -20,7 +20,7 @@ const PriceCard = () => {
           {/* price card 1 */}
           <div
             className="px-5 py-5 text-white border-gray-400 border hover:bg-[#3d087b]"
-            data-aos="flip-left"
+            data-aos="zoom-in-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"
@@ -104,7 +104,7 @@ const PriceCard = () => {
 
           <div
             className="px-5 py-5 text-white border-gray-400 border hover:bg-[#3d087b]"
-            data-aos="flip-left"
+            data-aos="zoom-in-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"

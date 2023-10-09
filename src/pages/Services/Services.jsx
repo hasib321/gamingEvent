@@ -13,7 +13,7 @@ const Services = ({ services }) => {
       <div className="max-w-screen-xl mx-auto py-20">
         <div
           className="text-center space-y-7"
-          data-aos="flip-left"
+          data-aos="fade"
           data-aos-offset="200"
           data-aos-easing="ease-in-sine"
           data-aos-duration="600"

@@ -15,7 +15,7 @@ const BottomBanner = () => {
             <div>
               <div
                 className="flex justify-center items-center gap-2 mt-10"
-                data-aos="flip-left"
+                data-aos="flip-down"
                 data-aos-offset="200"
                 data-aos-easing="ease-in-sine"
                 data-aos-duration="600"
@@ -27,7 +27,7 @@ const BottomBanner = () => {
             <div className="text-white space-y-8 mt-10">
               <h1
                 className="text-6xl  font-bold"
-                data-aos="flip-right"
+                data-aos="flip-down"
                 data-aos-offset="200"
                 data-aos-easing="ease-in-sine"
                 data-aos-duration="600"
@@ -35,7 +35,7 @@ const BottomBanner = () => {
                 Top Of Team <br /> From Monthly Winner
               </h1>
               <p
-                data-aos="flip-left"
+                data-aos="flip-down"
                 data-aos-offset="200"
                 data-aos-easing="ease-in-sine"
                 data-aos-duration="600"
@@ -49,7 +49,7 @@ const BottomBanner = () => {
             </div>
             <div
               className="text-white flex gap-20 my-8"
-              data-aos="zoom-in"
+              data-aos="fade"
               data-aos-offset="200"
               data-aos-easing="ease-in-sine"
               data-aos-duration="600"

@@ -27,7 +27,7 @@ const Ratings = () => {
         <div className="text-white text-center grid grid-cols-2 md:grid-cols-2 lg:grid-cols-4 mt-24 gap-5">
           <div
             className="hover:bg-[#3D087B] border py-8"
-            data-aos="flip-left"
+            data-aos="flip-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"
@@ -37,7 +37,7 @@ const Ratings = () => {
           </div>
           <div
             className="hover:bg-[#3D087B] border py-8"
-            data-aos="flip-left"
+            data-aos="flip-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"
@@ -47,7 +47,7 @@ const Ratings = () => {
           </div>
           <div
             className="hover:bg-[#3D087B] border py-8"
-            data-aos="flip-right"
+            data-aos="flip-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"
@@ -57,7 +57,7 @@ const Ratings = () => {
           </div>
           <div
             className="hover:bg-[#3D087B] border py-8"
-            data-aos="flip-right"
+            data-aos="flip-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"
