@@ -26,7 +26,7 @@ const Banner = () => {
         <div className="text-white space-y-8 mt-5">
           <h1
             className="text-6xl  font-bold"
-            data-aos="fade-right"
+            data-aos="zoom-in-up"
             data-aos-offset="200"
             data-aos-easing="ease-in-sine"
             data-aos-duration="600"

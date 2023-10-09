@@ -7,12 +7,12 @@ const Footer = () => {
   return (
     <div>
       <footer className="bg-[#11052c]">
-        <div className="text-white grid grid-cols-1 lg:grid-cols-5 md:grid-cols-4 gap-10 px-10 pt-20 ">
-          <div className=" lg:col-span-2 border-r mt-5 px-3">
+        <div className="text-white grid grid-cols-1 lg:grid-cols-5 md:grid-cols-2 gap-10 px-10 pt-20 ">
+          <div className=" lg:col-span-2  border-r mt-5 px-3">
             <div>
               <img
                 className="w-32"
-                src="/public/Gaming-logo-template-on-transparent-background-PNG.png"
+                src="Gaming-logo-template-on-transparent-background-PNG.png"
                 alt=""
               />
             </div>
@@ -88,17 +88,17 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="mt-5 px-3 border-r">
+          <div className="mt-5 px-2 border-r">
             <div>
               <h1 className="text-4xl font-bold">Contact Us</h1>
             </div>
             <div className="mt-5">
-              <p>Savar,Dhaka,Bangladesh</p>
+              <p>Savar,Dhaka</p>
             </div>
             <div className="mt-5">
               <p className="flex items-center gap-3 ">
                 <MdEmail className="text-[#f43b86] text-xl"></MdEmail>
-                <span>gamingevent@gmail.com</span>
+                <span>gaming@mail.com</span>
               </p>
               <p className="flex items-center gap-3 ">
                 <MdAddIcCall className="text-[#f43b86] text-xl"></MdAddIcCall>
@@ -108,7 +108,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="pt-16 pb-10">
+        <div className="pt-16 pb-10 flex items-center justify-center">
           <p className="text-center text-white text-sm">
             © 2023 - All right reserved by Gaming Event
           </p>

@@ -15,7 +15,7 @@ const BottomBanner = () => {
             <div>
               <div
                 className="flex justify-center items-center gap-2 mt-10"
-                data-aos="fade-right"
+                data-aos="flip-left"
                 data-aos-offset="200"
                 data-aos-easing="ease-in-sine"
                 data-aos-duration="600"

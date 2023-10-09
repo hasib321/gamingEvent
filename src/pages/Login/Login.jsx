@@ -45,7 +45,7 @@ const Login = () => {
 
   return (
     <div>
-      <div className="bg-[url('/public/login.jpg')] bg-cover bg-center min-h-[90vh]">
+      <div className="bg-[url('/public/loginBg.jpg')] bg-cover bg-center min-h-[90vh]">
         <div className=" min-w-full bg-gradient-to-r from-[#11052cbe] to-[#3e087b70]  min-h-screen">
           <div className="max-w-screen-xl mx-auto">
             <div className="py-5">

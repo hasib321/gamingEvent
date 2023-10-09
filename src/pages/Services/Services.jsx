@@ -28,7 +28,7 @@ const Services = ({ services }) => {
         </div>
         <div
           className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 my-10 px-5"
-          data-aos="slide-right"
+          data-aos="zoom-in"
           data-aos-offset="200"
           data-aos-easing="ease-in-sine"
           data-aos-duration="600"
