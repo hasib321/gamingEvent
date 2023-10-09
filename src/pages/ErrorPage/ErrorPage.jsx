@@ -5,7 +5,7 @@ const ErrorPage = () => {
   return (
     <div className="flex items-center justify-center h-screen">
       <div className="text-center">
-        <h1 className="text-5xl text-red-700">ooooopsssss Not Found</h1>
+        <h1 className="text-5xl text-red-700">oopsss Not Found</h1>
         <p className="text-xl text-blue-700 mt-3">
           {error.status || error.message}
         </p>
