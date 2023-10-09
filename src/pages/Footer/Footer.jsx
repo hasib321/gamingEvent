@@ -98,12 +98,12 @@ const Footer = () => {
             <div className="mt-5">
               <p className="flex items-center gap-3 ">
                 <MdEmail className="text-[#f43b86] text-xl"></MdEmail>
-                <span>Mail@Email.com</span>
+                <span>gamingevent@gmail.com</span>
               </p>
               <p className="flex items-center gap-3 ">
                 <MdAddIcCall className="text-[#f43b86] text-xl"></MdAddIcCall>
 
-                <span>+8801000000001</span>
+                <span>+8801011110001</span>
               </p>
             </div>
           </div>
